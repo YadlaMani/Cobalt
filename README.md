@@ -17,3 +17,42 @@ Here're some of the project's best features:
 *   Secure Code Vault: 🔐 Cobalt provides a secure repository known as the Code Vault where developers can safely store their code snippets along with detailed descriptions and annotations. Utilizing advanced encryption techniques and access controls the Code Vault ensures the confidentiality and integrity of sensitive code assets.
 *   Intelligent Search Functionality: 🔍 Searching for specific code snippets within a large codebase can be a daunting task. Cobalt simplifies this process with its intelligent search functionality allowing developers to quickly locate relevant snippets based on tags descriptions or code similarities.
 *   Comprehensive AI and Machine Learning Integration: 🤖 Cobalt seamlessly integrates AI and machine learning technologies throughout its features from generating insights to powering intelligent search and recommendation systems. This comprehensive integration enhances developer productivity and streamlines the code management process.
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repo</p>
+
+```
+https://github.com/YadlaMani/Opto
+```
+
+<p>2. Move to project folder</p>
+
+```
+cd opto
+```
+
+<p>3. Install node packages</p>
+
+```
+npm install
+```
+
+<p>4. Run the website</p>
+```
+npm run dev
+```
+<p>5. Make .env file and fill in the keys </p>
+
+```
+MONGO_URI=
+TOKEN_SECRET=
+DOMAIN=http://localhost:3000
+GIT_HUB_API_KEY=
+
+CLOUD_NAME=
+CLOUD_API=
+CLOUD_API_SECRET=
+
+GEMINI_API_KEY=
+
+```
