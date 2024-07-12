@@ -1,6 +1,9 @@
 <h1 align="center" id="title">Cobalt</h1>
 
-<p id="description">As developers a huge problem we face while working with codebases is that it becomes a time consuming process for us to go through thousands of lines of code and understand them. Our solution to this problem resolves this issue in a very simple way. All you need to do is paste the GitHub link of the repository which you want to understand. In order to tackle this problem we used artificial intelligence which gives you the power to understand the repository just by pasting its GitHub link. At first it gives you an overview of the project and displays all the files within the repository. From this you can select any file which you want to further understand and each and every function from the file which you select will be explained in detail. Another problem we face while developing multiple applications is that many a times the code which we write in one application can be used for implementing functionality in another application. Hence the need arises for us to store these code snippets and use them whenever necessary.   So we have created a very secure snippet storing system. Here we have implemented a machine learning algorithm through which you can search for a particular code snippet using information from the title description and the tags which you associate with the code snippet.</p>
+* <p>Developers often face challenges in understanding large codebases, which can be time-consuming and cumbersome. Our solution addresses this by leveraging artificial intelligence to streamline the process. Simply paste the GitHub link of the repository you want to understand, and our tool will provide an overview of the project and display all its files. You can then select any file to receive detailed explanations of its functions, making it easier to grasp complex codebases.
+</p>
+
+* <p>Additionally, developers frequently need to reuse code snippets across different projects. To support this, we've created a secure snippet storage system. Our machine learning algorithm allows you to search for specific code snippets using titles, descriptions, and tags, ensuring you can quickly find and reuse the code you need, enhancing productivity and efficiency.</p>
 
 <h2>🚀 Demo</h2>
 
@@ -63,8 +66,8 @@ GEMINI_API_KEY=
 
 Technologies used in the project:
 
-*   Frontend:HTML,CSS,Tailwind CSS,Shadcn,React
-*   Backend:TypeScript,Node
+*   Frontend: HTML,CSS,Tailwind CSS,Shadcn,React
+*   Backend: TypeScript,Node
 *   Database: MongoDB
 *   Framework: Next.js
 *   Webscraping : GithubAPI
