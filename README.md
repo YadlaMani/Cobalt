@@ -20,6 +20,17 @@ Here're some of the project's best features:
 *   Secure Code Vault: 🔐 Cobalt provides a secure repository known as the Code Vault where developers can safely store their code snippets along with detailed descriptions and annotations. Utilizing advanced encryption techniques and access controls the Code Vault ensures the confidentiality and integrity of sensitive code assets.
 *   Intelligent Search Functionality: 🔍 Searching for specific code snippets within a large codebase can be a daunting task. Cobalt simplifies this process with its intelligent search functionality allowing developers to quickly locate relevant snippets based on tags descriptions or code similarities.
 *   Comprehensive AI and Machine Learning Integration: 🤖 Cobalt seamlessly integrates AI and machine learning technologies throughout its features from generating insights to powering intelligent search and recommendation systems. This comprehensive integration enhances developer productivity and streamlines the code management process.
+
+<h2>📸 Screenshots</h2>
+
+![Screenshot 2024-04-30 192553](https://github.com/user-attachments/assets/369a1601-ade8-4947-aac8-976680f4a850)
+![Screenshot 2024-04-30 192646](https://github.com/user-attachments/assets/44d91c45-b9f0-4c66-890d-75fc6e3c2abb)
+![Screenshot 2024-04-30 193702](https://github.com/user-attachments/assets/d644fbde-56a4-4454-8494-7aadb28fa069)
+![Screenshot 2024-04-30 193810](https://github.com/user-attachments/assets/eeae0006-971a-46bc-9b39-c085a34380fc)
+![Screenshot 2024-04-30 193948](https://github.com/user-attachments/assets/b9680730-4add-4107-8ea4-e911c8fe5692)
+![Screenshot 2024-04-30 194013](https://github.com/user-attachments/assets/d52adc0f-4538-4945-87b8-75a427453440)
+
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone the repo</p>
