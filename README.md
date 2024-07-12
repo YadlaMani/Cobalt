@@ -58,3 +58,15 @@ CLOUD_API_SECRET=
 GEMINI_API_KEY=
 
 ```
+
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Frontend:HTML,CSS,Tailwind CSS,Shadcn,React
+*   Backend:TypeScript,Node
+*   Database: MongoDB
+*   Framework: Next.js
+*   Webscraping : GithubAPI
+*   Generative AI : GeminiAPI
+
