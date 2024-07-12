@@ -38,9 +38,11 @@ npm install
 ```
 
 <p>4. Run the website</p>
+
 ```
 npm run dev
 ```
+
 <p>5. Make .env file and fill in the keys </p>
 
 ```
